@@ -196,7 +196,7 @@ recyclerView.addOnScrollListener(new EndlessRecyclerOnScrollListener() {
 });
 ```
 
-For the complete tutorial and more features such as multi-select and CAB, read [this](http://blog.grafixartist.com/recyclerview-adapter-android-made-fast-easy/) blog post.
+For the complete tutorial and more features such as multi-select and CAB, read [this](http://blog.grafixartist.com/recyclerview-adapter-android-made-fast-easy/) blog post by [Suleiman Ali Shakir](https://twitter.com/Suleiman_194).
 
 ##Advanced Usage
 ###Proguard
